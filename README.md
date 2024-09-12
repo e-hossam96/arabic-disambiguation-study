@@ -37,3 +37,12 @@ conda activate disambg
 ```
 
 - Fill [.ENV.EXAMPLE](./.env.example) file and save it into `.env` file
+
+- Download Pretrained FastText model for baseline calculations
+
+```bash
+cd models
+python ../download_fasttext_model.py ar
+rm cc.ar.300.bin.gz
+cd ..
+```
