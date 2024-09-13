@@ -2,3 +2,4 @@ data
 .env
 models
 notebooks/wandb
+notebooks/.ipynb_checkpoints
