@@ -46,3 +46,13 @@ python ../download_fasttext_model.py ar
 rm cc.ar.300.bin.gz
 cd ..
 ```
+
+## Topic Classification Results
+
+### Accuracy
+
+![Accuracy](./assets/topic_accuracy.svg)
+
+### Macro-F1
+
+![Macro F1](./assets/topic_macro_f1.svg)
