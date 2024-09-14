@@ -56,3 +56,11 @@ cd ..
 ### Macro-F1
 
 ![Macro F1](./assets/topic_macro_f1.svg)
+
+## W&B Workspace
+
+- [Workspace Link](https://wandb.ai/e_hossam96/ARABIC_DISAMBIGUATION_STUDY?nw=nwusere_hossam96)
+
+- [Topic Classification Data Lineage Link](https://wandb.ai/e_hossam96/ARABIC_DISAMBIGUATION_STUDY/artifacts/dataset/Topic-Classification-Dataset/v0/lineage)
+
+![Lineage](./assets/lineage.png)
